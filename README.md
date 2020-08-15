@@ -5,3 +5,4 @@ How to run:
 2. run task_tailor.py with the saved data by run_maml_cluster.py;
 3. run test_maml_cluster.py to get the generalization ability test result.
 
+Sorry that the code in this repo is messy, we will release a clearer version later.
